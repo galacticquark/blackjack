@@ -1,0 +1,4 @@
+0 Corazones
+1 Diamantes
+2 Picas
+3 Trebol
