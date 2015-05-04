@@ -25,6 +25,7 @@ public class Baraja {
 	public Naipe next(){
 		lastNaipe = this.baraja.get(0);
 		this.baraja.remove(0);
-		return lastNaipe;		
+		return lastNaipe;	
 	}
 }
+
